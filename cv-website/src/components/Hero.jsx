@@ -55,10 +55,7 @@ export default function Hero() {
         Contact: +91 7670881453 | radhakrishnachaitu@gmail.com
       </p>
 
-      <p className="italic text-gray-500 dark:text-gray-500 mb-6 max-w-md">
-        (Building the future. No breaks, no excuses.)
-      </p>
-
+    
       <div className="relative h-8 w-full max-w-md mb-8">
         <AnimatePresence mode="wait">
           <motion.p
